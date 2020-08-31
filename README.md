@@ -10,7 +10,7 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |딥러닝을 이용한 자연어 처리 입문|https://wikidocs.net/book/2155|⭐|
 |위클리 npl|https://jiho-ml.com/tag/weekly-nlp/| |
 |BERT 톺아보기|http://docs.likejazz.com/bert/#fn:fn-2| |
-|Awesome Korean NLP Papers|https://github.com/papower1/Awesome-Korean-NLP-Papers| |
+|Awesome Korean NLP Papers|https://github.com/papower1/Awesome-Korean-NLP-Papers|⭐|
 |Dissecting BERT Part 1: The Encoder|https://medium.com/dissecting-bert/dissecting-bert-part-1-d3c3d495cdb3| |
 |LaRva 데뷰 2019 - 엄~청 큰 언어 모델 공장 가동기!|https://deview.kr/2019/schedule/291| |
 |ChrisMcCormickAI 유튜브 채널 |https://www.youtube.com/watch?v=FKlPCK1uFrc&list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6| |
