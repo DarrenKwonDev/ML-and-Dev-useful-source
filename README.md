@@ -32,6 +32,7 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |--|--|--|
 |딥러닝 드리즐|https://deep-learning-drizzle.github.io/|⭐|
 |골빈해커의 3분 딥러닝|https://github.com/golbin/TensorFlow-Tutorials| |
+|개앞맵시 ML 교재 추천|https://www.mindmeister.com/ko/812276967/_# | |
 |텐서플로우 예시들|https://github.com/aymericdamien/TensorFlow-Examples| |
 |Stanford Machine Learning|http://www.holehouse.org/mlclass/| |
 |coursera 강의|https://www.coursera.org/learn/machine-learning|⭐|
