@@ -26,7 +26,7 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 
 
 
-## 일반 ML에 대한 자료들
+## 그 외의 ML에 대한 자료들
 |제목|링크|
 |--|--|
 |Stanford Machine Learning|http://www.holehouse.org/mlclass/|
