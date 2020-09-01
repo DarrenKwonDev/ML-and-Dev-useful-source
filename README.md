@@ -30,9 +30,11 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 ## 그 외의 ML에 대한 자료들
 |제목|링크|비고|
 |--|--|--|
+|모두를 위한 딥러닝 강좌 시즌 1|https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm| |
 |딥러닝 드리즐|https://deep-learning-drizzle.github.io/|⭐|
 |골빈해커의 3분 딥러닝|https://github.com/golbin/TensorFlow-Tutorials| |
 |개앞맵시 ML 교재 추천|https://www.mindmeister.com/ko/812276967/_# |⭐|
+|크리 애플(한국어 ML 강의)|https://www.creapple.com/home/main| |
 |aws Machine Learning University|https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw?fbclid=IwAR2wjfxX-3GqErzHYskcPau0My7XOnayVwoofJiuBjxanDQCRBUaGhUF4-U&app=desktop| |
 |텐서플로우 예시들|https://github.com/aymericdamien/TensorFlow-Examples| |
 |Stanford Machine Learning|http://www.holehouse.org/mlclass/| |
