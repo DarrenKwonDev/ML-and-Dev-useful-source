@@ -40,6 +40,7 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |Stanford Machine Learning|http://www.holehouse.org/mlclass/| |
 |coursera 강의|https://www.coursera.org/learn/machine-learning|⭐|
 |fullstack deep learning|https://course.fullstackdeeplearning.com/?fbclid=IwAR2ASADOTBAt0nnDuSW8j3GRwUU-DhndsP1J_fS5Cjcw3zZA0xZt9VQs5J0|⭐|
+|fullstack deep learning 요약 블로그|https://medium.com/@heegyukim/full-stack-deep-learning-setting-up-machine-learning-projects-32681ccac007|⭐|
 |arxiv|https://arxiv.org/| |
 
 ## 한국어 Copus
