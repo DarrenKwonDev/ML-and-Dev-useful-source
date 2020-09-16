@@ -40,8 +40,23 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |Stanford Machine Learning|http://www.holehouse.org/mlclass/| |
 |coursera 강의|https://www.coursera.org/learn/machine-learning|⭐|
 |fullstack deep learning|https://course.fullstackdeeplearning.com/?fbclid=IwAR2ASADOTBAt0nnDuSW8j3GRwUU-DhndsP1J_fS5Cjcw3zZA0xZt9VQs5J0|⭐|
-|fullstack deep learning 요약 블로그|https://medium.com/@heegyukim/full-stack-deep-learning-setting-up-machine-learning-projects-32681ccac007|⭐|
 |arxiv|https://arxiv.org/| |
+
+<details>
+    <summary>fullstack deep learning 요약 블로그</summary>
+
+1. Setting up Machine Learning Projects https://medium.com/@heegyukim/full-stack-deep-learning-setting-up-machine-learning-projects-32681ccac007
+2. Infrastructure and Tooling
+https://medium.com/@heegyukim/full-stack-deep-learning-infrastructure-and-tooling-e0cd33af7a9e
+3. Data Management
+https://medium.com/@heegyukim/full-stack-deep-learning-data-management-7ee8ca43aac7
+4. Machine Learning Teams
+https://medium.com/@heegyukim/full-stack-deep-learning-machine-learning-teams-8aaa2e22b5ca
+5. Training and Debugging
+https://medium.com/@heegyukim/full-stack-deep-learning-training-and-debugging-1c0f1d587e66
+6. Testing and Deployment
+https://medium.com/@heegyukim/full-stack-deep-learning-testing-and-deployment-d98568424a8a
+</details>
 
 ## 한국어 Copus
 |제목|링크|비고|
