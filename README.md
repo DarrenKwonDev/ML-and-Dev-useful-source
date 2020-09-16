@@ -61,4 +61,5 @@ https://medium.com/@heegyukim/full-stack-deep-learning-testing-and-deployment-d9
 ## 한국어 Copus
 |제목|링크|비고|
 |--|--|--|
+|Korpora 프로젝트 |https://github.com/ko-nlp/Korpora?fbclid=IwAR2ASADOTBAt0nnDuSW8j3GRwUU-DhndsP1J_fS5Cjcw3zZA0xZt9VQs5J0|⭐|
 |감성 분석용 말뭉치(네이버 쇼핑, Steam 한글 리뷰)| https://github.com/bab2min/corpus| |
