@@ -41,4 +41,6 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |coursera 강의|https://www.coursera.org/learn/machine-learning|⭐|
 |arxiv|https://arxiv.org/| |
 
-
+## 한국어 Copus
+|제목|링크|비고|
+|감성 분석용 말뭉치(네이버 쇼핑, Steam 한글 리뷰)| https://github.com/bab2min/corpus| |
