@@ -41,6 +41,8 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |coursera 강의|https://www.coursera.org/learn/machine-learning|⭐|
 |fullstack deep learning|https://course.fullstackdeeplearning.com/?fbclid=IwAR2ASADOTBAt0nnDuSW8j3GRwUU-DhndsP1J_fS5Cjcw3zZA0xZt9VQs5J0|⭐|
 |arxiv|https://arxiv.org/| |
+|pingpong팀 블로그|https://blog.pingpong.us/| |
+|kakao brain|https://www.kakaobrain.com/publication| |
 
 <details>
     <summary>fullstack deep learning 요약 블로그</summary>
