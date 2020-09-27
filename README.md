@@ -47,6 +47,8 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |이솦|https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=006|EBS에서 고교생을 대상으로 만든 인공지능|
 |모두의 연구소|https://home.modulabs.co.kr/|다양한 주제의 강의를 제공합니다.|
 
+
+
 <details>
     <summary>fullstack deep learning 요약 블로그</summary>
 
@@ -70,3 +72,7 @@ https://medium.com/@heegyukim/full-stack-deep-learning-testing-and-deployment-d9
 |감성 분석용 말뭉치(네이버 쇼핑, Steam 한글 리뷰)| https://github.com/bab2min/corpus| |
 
 
+## 관심있는 프로젝트 및 코드 살펴보기  
+https://github.com/goodatlas/zeroth  
+https://github.com/GSByeon/multi-speaker-tacotron-tensorflow  
+https://github.com/sinabro-team/kochat  
