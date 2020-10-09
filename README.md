@@ -32,6 +32,7 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |--|--|--|
 |모두를 위한 딥러닝 강좌 시즌 1|https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm| |
 |딥러닝 드리즐|https://deep-learning-drizzle.github.io/|⭐|
+|Yann LuCun 'DEEP LEARNING' (in NYC)|https://atcold.github.io/pytorch-Deep-Learning/ko/?fbclid=IwAR0HKGSUQwam_69FKNoleyDRqFR4l_DUH-OfL3pZLr4OFRm1zTTpQKiZYSg|⭐|  
 |골빈해커의 3분 딥러닝|https://github.com/golbin/TensorFlow-Tutorials| |
 |개앞맵시 ML 교재 추천|https://www.mindmeister.com/ko/812276967/_# |⭐|
 |IBM cognitive class|https://cognitiveclass.ai/|⭐ IBM에서 제공하는 data, ml 관련 강의로, script까지 줘서 비영어권의 접근성 나쁘지 않음 |
