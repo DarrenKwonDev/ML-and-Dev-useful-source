@@ -24,8 +24,6 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |한국어 Tokenizer 비교|https://blog.pingpong.us/dialog-bert-tokenizer/| |
 |TorchText 전처리 라이브러리 사용법|https://wikidocs.net/65348| |
 |GPT-2 설명 / BERT랑 비교|http://jalammar.github.io/illustrated-gpt2/| |
-|한글의 초/중/종성 분리, 조합, 조사 붙이기 기능 (in GO)|https://github.com/LoperLee/golang-hangul-toolkit?fbclid=IwAR2FsewBASRP0BH8JY-aKIxHzPwrpZy38oJjHrVKCAza4lPmqAKrAbjqq54| |
-
 
 
 ## 그 외의 ML에 대한 자료들
@@ -78,3 +76,4 @@ https://medium.com/@heegyukim/full-stack-deep-learning-testing-and-deployment-d9
 https://github.com/goodatlas/zeroth  
 https://github.com/GSByeon/multi-speaker-tacotron-tensorflow  
 https://github.com/sinabro-team/kochat  
+https://github.com/LoperLee/golang-hangul-toolkit?fbclid=IwAR2FsewBASRP0BH8JY-aKIxHzPwrpZy38oJjHrVKCAza4lPmqAKrAbjqq54
