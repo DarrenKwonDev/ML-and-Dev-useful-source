@@ -45,7 +45,8 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |pingpong팀 블로그|https://blog.pingpong.us/| |
 |kakao brain|https://www.kakaobrain.com/publication| |
 |이솦|https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=006|EBS에서 고교생을 대상으로 만든 인공지능|
-|모두의 연구소|https://home.modulabs.co.kr/|다양한 주제의 강의를 제공합니다.|
+| |https://www.ebssw.kr/upload/pgm/ebs_math_ai.pdf|이솦 교재|  
+|모두의 연구소|https://home.modulabs.co.kr/|다양한 주제의 강의를 제공합니다.|  
 
 
 
