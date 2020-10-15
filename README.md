@@ -24,6 +24,7 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |한국어 Tokenizer 비교|https://blog.pingpong.us/dialog-bert-tokenizer/| |
 |TorchText 전처리 라이브러리 사용법|https://wikidocs.net/65348| |
 |GPT-2 설명 / BERT랑 비교|http://jalammar.github.io/illustrated-gpt2/| |
+|The Super Duper NLP Repo|https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter&fbclid=IwAR1TDjhrfaT1HWrBl6TuqHsGzffl8dGf89KgUh9_RgyaG6HhmvJ3QqxqguI|⭐|
 
 
 ## 그 외의 ML에 대한 자료들
