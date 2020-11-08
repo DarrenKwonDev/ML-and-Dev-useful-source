@@ -48,6 +48,7 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 |이솦|https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=006|EBS에서 고교생을 대상으로 만든 인공지능|
 | |https://www.ebssw.kr/upload/pgm/ebs_math_ai.pdf|이솦 교재|  
 |모두의 연구소|https://home.modulabs.co.kr/|다양한 주제의 강의를 제공합니다.|  
+|이미지 프로세싱 & 컴퓨터 시각화 포스팅|https://blog.naver.com/zeus05100/222138035017|30부에 걸쳐 이미지 프로세싱과 CV에 대해 설명합니다.|
 
 
 
@@ -79,3 +80,4 @@ https://github.com/goodatlas/zeroth
 https://github.com/GSByeon/multi-speaker-tacotron-tensorflow  
 https://github.com/sinabro-team/kochat  
 https://github.com/LoperLee/golang-hangul-toolkit?fbclid=IwAR2FsewBASRP0BH8JY-aKIxHzPwrpZy38oJjHrVKCAza4lPmqAKrAbjqq54
+https://github.com/jason9693/Soongsil-BERT?fbclid=IwAR3izfku1by9ewnCuiB88c0GszipaLTO0Ex77kxf_nIwJ9LZMCAchRmskZU // 숭실대 커뮤니티 전용 언어 
