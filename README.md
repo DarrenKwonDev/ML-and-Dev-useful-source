@@ -6,7 +6,8 @@ NLP나 ML을 공부하기 위한 자료들입니다.
 ## NLP를 위한 자료들
 
 |제목|링크|비고|
-|------|---|----|
+|------|---|----|  
+|머신러닝 입문을 위한 안내글|https://brunch.co.kr/@aidenswmo/2#comment| |  
 |딥러닝을 이용한 자연어 처리 입문|https://wikidocs.net/book/2155|⭐|
 |위클리 npl|https://jiho-ml.com/tag/weekly-nlp/| |
 |BERT 톺아보기|http://docs.likejazz.com/bert/#fn:fn-2| |
@@ -81,3 +82,73 @@ https://github.com/GSByeon/multi-speaker-tacotron-tensorflow
 https://github.com/sinabro-team/kochat  
 https://github.com/LoperLee/golang-hangul-toolkit?fbclid=IwAR2FsewBASRP0BH8JY-aKIxHzPwrpZy38oJjHrVKCAza4lPmqAKrAbjqq54
 https://github.com/jason9693/Soongsil-BERT?fbclid=IwAR3izfku1by9ewnCuiB88c0GszipaLTO0Ex77kxf_nIwJ9LZMCAchRmskZU // 숭실대 커뮤니티 전용 언어 
+
+ 
+
+# dev-useful-source  
+
+fork를 남발하다보니 repo가 너무 많아져서, 별도의 README 파일에서 정리하기로 했습니다.
+
+## api
+**https://listt.xyz/** => API 끝판왕  
+https://github.com/public-apis/public-apis  
+https://github.com/DarrenKwonDev/yts-proxy  
+
+## Design  
+https://github.com/bradtraversy/design-resources-for-developers  
+https://icons8.com/illustrations  
+
+## Company tech blog
+https://d2.naver.com/home  
+https://woowabros.github.io/  
+https://tech.kakao.com/  
+https://engineering.linecorp.com/ko/blog/  
+https://meetup.toast.com/  
+https://tech.lezhin.com/  
+
+|company|url|
+|---|----|
+|당근마켓|https://medium.com/daangn|
+|라인|https://engineering.linecorp.com/ko/blog/|
+|리디북스|https://www.ridicorp.com/blog/|
+|마켓컬리|https://helloworld.kurly.com/|
+|뱅크샐러드|https://blog.banksalad.com/tech/|
+|스포카|https://spoqa.github.io/|
+|엔테크서비스 UIT개발실|https://wit.nts-corp.com/|
+|우아한형제들|https://woowabros.github.io/|
+|카카오|https://tech.kakao.com/blog/|
+|NHN TOAST|https://meetup.toast.com/|
+|Naver D2|https://d2.naver.com/helloworld|
+|VCNC|http://engineering.vcnc.co.kr/|
+|pxd LeanUX Lab|http://lab.pxd.co.kr/|
+|44bits|https://www.44bits.io/ko|
+
+## DB Modeling
+https://app.graphqleditor.com/  
+https://dbdiagram.io/home  
+
+## useful for edu
+https://github.com/LikeLionSCH/LikeLion_Django_Study_Summary  
+https://github.com/reactkr/learn-react-in-korean  
+https://github.com/MoonHighway/learning-graphql  
+
+## useful for dev
+https://github.com/MoePlayer/APlayer  
+https://github.com/madhavanmalolan/awesome-reactnative-ui  
+https://github.com/w3tecch/express-typescript-boilerplate  
+https://github.com/jaewonhimnae/boiler-plate-ko  
+https://github.com/mitesh77/Best-Flutter-UI-Templates  
+https://github.com/goldbergyoni/nodebestpractices  
+https://github.com/vercel/next-plugins  
+
+## typescript?  
+https://joshua1988.github.io/ts/  
+https://ahnheejong.gitbook.io/ts-for-jsdev/  
+https://infoscis.github.io/2017/05/14/TypeScript-handbook-basic-types/  
+https://typescript-kr.github.io/  
+https://heropy.blog/2020/01/27/typescript/  
+
+
+## 아티클 모음집  
+https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91
+
