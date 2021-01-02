@@ -82,7 +82,7 @@ https://github.com/GSByeon/multi-speaker-tacotron-tensorflow
 https://github.com/sinabro-team/kochat  
 https://github.com/LoperLee/golang-hangul-toolkit?fbclid=IwAR2FsewBASRP0BH8JY-aKIxHzPwrpZy38oJjHrVKCAza4lPmqAKrAbjqq54
 https://github.com/jason9693/Soongsil-BERT?fbclid=IwAR3izfku1by9ewnCuiB88c0GszipaLTO0Ex77kxf_nIwJ9LZMCAchRmskZU // 숭실대 커뮤니티 전용 언어 
-
+https://github.com/ko-nlp // team ko-NLP  
  
 
 # dev-useful-source  
