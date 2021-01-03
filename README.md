@@ -93,6 +93,7 @@ fork를 남발하다보니 repo가 너무 많아져서, 별도의 README 파일�
 **https://listt.xyz/** => API 끝판왕  
 https://github.com/public-apis/public-apis  
 https://github.com/DarrenKwonDev/yts-proxy  
+https://iexcloud.io/  => The easiest way to use financial data
 
 ## Design  
 https://github.com/bradtraversy/design-resources-for-developers  
