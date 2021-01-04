@@ -106,6 +106,7 @@ https://tech.kakao.com/
 https://engineering.linecorp.com/ko/blog/  
 https://meetup.toast.com/  
 https://tech.lezhin.com/  
+https://ridicorp.com/story-category/tech-blog/ => 리디북스. velopert님도 여기서 웹/앱 개발중  
 
 |company|url|
 |---|----|
